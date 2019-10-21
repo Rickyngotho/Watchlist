@@ -45,7 +45,7 @@ unattended-upgrades==0.1
 urllib3==1.13.1
 virtualenv==15.0.1
 visitor==0.1.3
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
 WTForms==2.2.1
 xkit==0.0.0
